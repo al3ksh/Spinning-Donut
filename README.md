@@ -8,6 +8,9 @@ Behold: a mathematically overachieving pastry pirouetting in your Windows consol
 - Adjustable speed, zoom, and aspect ratio for the truly discerning donut connoisseur.
 - Highly educational use of `WriteConsoleOutput` and raw buffers, which you will absolutely never need again.
 
+## About This Project
+This implementation was created with AI-assisted development. While the core mathematical and rendering logic is based on classic ASCII donut algorithms, the code structure, optimizations, and some features were refined with the help of AI tools. This project demonstrates how modern AI can assist in both learning and enhancing classic programming concepts.
+
 ## Requirements
 - Windows (console APIs are used; bring your own Linux porting kit and a sense of adventure).
 - C++14 compiler.
